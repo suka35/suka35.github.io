@@ -19,6 +19,7 @@ toc: true
 Sunghan Kim
 
 I obtained my Bachelor of Economics degree from Kyung Hee University in Seoul, Korea.
+
 I am currently pursuing a Master of Business administration Degree from Soongsil University in Seoul, Korea.
 
 관심분야 : 금융공학, 채권, 파생상품, 대체투자(부동산)
