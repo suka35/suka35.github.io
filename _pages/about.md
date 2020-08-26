@@ -18,4 +18,6 @@ toc: true
 
 Sunghan Kim
 
-Master of business administration Student
+Master of business administration Student of Soongsil University
+
+관심분야 : 채권, 파생상품, 대체투자(부동산)
